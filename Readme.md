@@ -222,11 +222,6 @@ LOCALS :
 
 ---
 
-- Global("JO_JOIN_IS_JOINING","LOCALS",0)
-   - The familiar will go close to Charname or linked party member before switching in party.
-
----
-
 - Global("JO_JOIN_FEELING","LOCALS",0)
    - Not quite tested yet, DisplayStringHead to notify familiar health statut.
 
